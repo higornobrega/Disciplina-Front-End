@@ -4,7 +4,6 @@ https://github.com/leticiaCamargoufg/Disciplina-Front-End
 
 Discentes: 
 Higor Nóbrega
-Iury Tavares
 Letícia Camargo
 Pedro Felipe Carrijo
 Raniere Luiz
