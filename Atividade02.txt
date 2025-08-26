@@ -1,8 +1,8 @@
-Atividade 01:
+Atividade 02:
 
 https://github.com/leticiaCamargoufg/Disciplina-Front-End
 
-Discentes: 
+Discentes:
 Higor Nóbrega
 Letícia Camargo
 Pedro Felipe Carrijo
