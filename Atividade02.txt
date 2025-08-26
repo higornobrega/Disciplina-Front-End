@@ -1,6 +1,6 @@
 Atividade 02:
 
-https://github.com/leticiaCamargoufg/Disciplina-Front-End
+https://github.com/leticiaCamargoufg/Disciplina-Front-End/tree/atividade02
 
 Discentes:
 Higor Nóbrega
